@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jerfriend.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jerfriend0000" x="0" y="0" width="700" height="635" frameX="-2" frameY="-14" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0001" x="700" y="0" width="704" height="635" frameX="0" frameY="-14" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0002" x="1404" y="0" width="704" height="633" frameX="0" frameY="-16" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0003" x="2108" y="0" width="700" height="633" frameX="-2" frameY="-16" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0004" x="2808" y="0" width="700" height="636" frameX="-2" frameY="-13" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0005" x="0" y="636" width="700" height="636" frameX="-2" frameY="-13" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0006" x="700" y="636" width="700" height="638" frameX="-2" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0007" x="1400" y="636" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0008" x="1400" y="636" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0009" x="1400" y="636" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0010" x="2100" y="636" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0011" x="2100" y="636" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0012" x="2100" y="636" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0013" x="2800" y="636" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0014" x="2800" y="636" width="700" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0015" x="0" y="1285" width="700" height="638" frameX="-2" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0016" x="700" y="1285" width="704" height="638" frameX="0" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0017" x="1404" y="1285" width="704" height="638" frameX="0" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0018" x="2108" y="1285" width="700" height="638" frameX="-2" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0019" x="2808" y="1285" width="700" height="638" frameX="-2" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0020" x="0" y="1923" width="700" height="638" frameX="-2" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0021" x="700" y="1923" width="700" height="640" frameX="-2" frameY="-9" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0022" x="1400" y="1923" width="700" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0023" x="1400" y="1923" width="700" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0024" x="1400" y="1923" width="700" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0025" x="2100" y="1923" width="700" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0026" x="2100" y="1923" width="700" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0027" x="2100" y="1923" width="700" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0028" x="2800" y="1923" width="700" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="jerfriend0029" x="2800" y="1923" width="700" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+</TextureAtlas>

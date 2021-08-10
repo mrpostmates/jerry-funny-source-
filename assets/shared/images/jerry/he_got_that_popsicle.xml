@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="he_got_that_popsicle.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pop right0000" x="0" y="0" width="297" height="342" pivotX="6.5" pivotY="0" frameX="0" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0001" x="297" y="0" width="297" height="342" frameX="-3" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0002" x="594" y="0" width="297" height="342" frameX="-6" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0003" x="891" y="0" width="299" height="342" frameX="-7" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0004" x="1190" y="0" width="304" height="342" frameX="-7" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0005" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0006" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0007" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0008" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0009" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0010" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0011" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0012" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0013" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0014" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0015" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0016" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0017" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0018" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0019" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0020" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0021" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0022" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0023" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0024" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0025" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0026" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0027" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0028" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0029" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop right0030" x="1494" y="0" width="321" height="342" frameX="-5" frameY="0" frameWidth="326" frameHeight="342"/>
+	<SubTexture name="pop up0000" x="0" y="342" width="307" height="364" pivotX="77.35" pivotY="19.15" frameX="-77" frameY="-19" frameWidth="446" frameHeight="402"/>
+	<SubTexture name="pop up0001" x="307" y="342" width="306" height="364" frameX="-77" frameY="-19" frameWidth="446" frameHeight="402"/>
+	<SubTexture name="pop up0002" x="307" y="342" width="306" height="364" frameX="-76" frameY="-19" frameWidth="446" frameHeight="402"/>
+	<SubTexture name="pop up0003" x="613" y="342" width="301" height="364" frameX="-77" frameY="-19" frameWidth="446" frameHeight="402"/>
+	<SubTexture name="pop up0004" x="914" y="342" width="329" height="364" frameX="-58" frameY="-19" frameWidth="446" frameHeight="402"/>
+	<SubTexture name="pop up0005" x="1243" y="342" width="330" height="364" frameX="-53" frameY="-19" frameWidth="446" frameHeight="402"/>
+	<SubTexture name="pop up0006" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0007" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0008" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0009" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0010" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0011" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0012" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0013" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0014" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0015" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0016" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0017" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0018" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0019" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0020" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0021" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0022" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0023" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0024" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0025" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0026" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0027" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0028" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0029" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="pop up0030" x="1573" y="342" width="446" height="402"/>
+	<SubTexture name="popsciclr0000" x="0" y="744" width="367" height="447" pivotX="-679.55" pivotY="-500.15" frameX="0" frameY="0" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0001" x="367" y="744" width="362" height="445" frameX="-10" frameY="-2" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0002" x="729" y="744" width="359" height="442" frameX="-19" frameY="-5" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0003" x="1088" y="744" width="356" height="439" frameX="-28" frameY="-8" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0004" x="1444" y="744" width="351" height="436" frameX="-38" frameY="-11" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0005" x="0" y="1191" width="348" height="432" frameX="-47" frameY="-14" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0006" x="348" y="1191" width="346" height="429" frameX="-54" frameY="-17" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0007" x="694" y="1191" width="349" height="425" frameX="-57" frameY="-20" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0008" x="1043" y="1191" width="350" height="420" frameX="-61" frameY="-24" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0009" x="1393" y="1191" width="352" height="416" frameX="-64" frameY="-27" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0010" x="0" y="1623" width="353" height="411" frameX="-68" frameY="-31" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0011" x="353" y="1623" width="356" height="406" frameX="-71" frameY="-35" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0012" x="709" y="1623" width="346" height="431" frameX="-52" frameY="-15" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsciclr0013" x="0" y="744" width="367" height="447" frameX="0" frameY="0" frameWidth="427" frameHeight="447"/>
+	<SubTexture name="popsicle left0000" x="1055" y="1623" width="278" height="332" pivotX="0" pivotY="8.3" frameX="0" frameY="-8" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0001" x="1333" y="1623" width="276" height="334" frameX="-2" frameY="-6" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0002" x="1609" y="1623" width="273" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0003" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0004" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0005" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0006" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0007" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0008" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0009" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0010" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0011" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0012" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0013" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0014" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0015" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0016" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0017" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0018" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0019" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0020" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0021" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0022" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0023" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0024" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0025" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0026" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0027" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0028" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0029" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="popsicle left0030" x="0" y="2054" width="269" height="340" frameX="-5" frameY="0" frameWidth="278" frameHeight="340"/>
+	<SubTexture name="sad (down0000" x="269" y="2054" width="274" height="340" pivotX="0" pivotY="2.75" frameX="0" frameY="-2" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0001" x="543" y="2054" width="271" height="341" frameX="-3" frameY="-1" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0002" x="814" y="2054" width="268" height="342" frameX="-6" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0003" x="1082" y="2054" width="265" height="342" frameX="-9" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0004" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0005" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0006" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0007" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0008" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0009" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0010" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0011" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0012" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0013" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0014" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0015" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0016" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0017" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0018" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0019" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0020" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0021" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0022" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0023" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0024" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0025" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0026" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0027" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0028" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0029" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0030" x="1347" y="2054" width="262" height="342" frameX="-12" frameY="0" frameWidth="274" frameHeight="342"/>
+	<SubTexture name="sad (down0031" x="1609" y="2054" width="70" height="86" frameX="-19" frameY="0" frameWidth="274" frameHeight="342"/>
+</TextureAtlas>
